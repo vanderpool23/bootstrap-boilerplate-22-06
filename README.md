@@ -13,5 +13,5 @@ For this project, we used the Google HTML and CSS Guide.
 1. Nav bar
 2. Footer
 3. Header
-4. Carousel
+4. ~~Carousel~~
 5. Contact form
